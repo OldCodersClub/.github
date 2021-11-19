@@ -25,7 +25,13 @@
 
 
 <!--suppress HtmlDeprecatedAttribute -->
-<p align="center"><img src="https://profile-counter.glitch.me/{OldCodersClub}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>
+<p align="center"><img src="../assets/rick.gif" alt="Rick" /></p>
+<p align="center"><b>Деды, го кодить!!!</b></p>
+
+
+
+<!--suppress HtmlDeprecatedAttribute -->
+<p align="center"><img src="https://profile-counter.glitch.me/{OldCodersClub}/count.svg" alt="OldCodersClub :: Visitor's Count" /></p>
 
 
 
