@@ -47,4 +47,5 @@
 [<img src="http://img.youtube.com/vi/wxHLDV1fyZQ/0.jpg" alt="Часть 3" width="430">](https://www.youtube.com/watch?v=wxHLDV1fyZQ)
 [<img src="http://img.youtube.com/vi/f2XRAU9GJM4/0.jpg" alt="Часть 4" width="430">](https://www.youtube.com/watch?v=f2XRAU9GJM4)
 [<img src="http://img.youtube.com/vi/jE4h1cHzHUw/0.jpg" alt="Часть 5" width="430">](https://www.youtube.com/watch?v=jE4h1cHzHUw)
+[<img src="http://img.youtube.com/vi/Rjnj_Qb6Pik/0.jpg" alt="Часть 6" width="430">](https://www.youtube.com/watch?v=Rjnj_Qb6Pik)
 [<img src="http://img.youtube.com/vi/VORpw9_t6-Y/0.jpg" alt="Часть 7" width="430">](https://www.youtube.com/watch?v=VORpw9_t6-Y)
