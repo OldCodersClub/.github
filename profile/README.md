@@ -37,6 +37,7 @@
 
 ---
 
+[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChbHeEGkYqM2b1HdAhf4y1g?style=social">](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g/videos)
 [<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UChbHeEGkYqM2b1HdAhf4y1g?style=social">](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g/about)  
 **Наш Youtube канал:** [_Как в 44 года стать программистом на Python_](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g)
 
