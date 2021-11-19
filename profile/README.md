@@ -22,6 +22,13 @@
 **Наш оффтоп чат:** [_Чиллаут дедов-программистов_](https://t.me/oldcoders_chillout)  
 Там можно флудить, чиллить и флексить!
 
+
+
+<!--suppress HtmlDeprecatedAttribute -->
+<p align="center"><img src="https://profile-counter.glitch.me/{OldCodersClub}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>
+
+
+
 ---
 
 [<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChbHeEGkYqM2b1HdAhf4y1g?style=social">](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g/videos)
