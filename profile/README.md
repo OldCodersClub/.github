@@ -42,8 +42,8 @@
 
 
 [<img src="http://img.youtube.com/vi/XThWZuEOCNE/0.jpg" alt="Объясняю с чего начать" width="400">](https://www.youtube.com/watch?v=XThWZuEOCNE)
-[<img src="http://img.youtube.com/vi/kolUAlhu-ho/0.jpg" alt="Часть 2" width="400">](https://www.youtube.com/watch?v=kolUAlhu-ho)
-[<img src="http://img.youtube.com/vi/wxHLDV1fyZQ/0.jpg" alt="Часть 3" width="400">](https://www.youtube.com/watch?v=wxHLDV1fyZQ)
-[<img src="http://img.youtube.com/vi/f2XRAU9GJM4/0.jpg" alt="Часть 4" width="400">](https://www.youtube.com/watch?v=f2XRAU9GJM4)
-[<img src="http://img.youtube.com/vi/jE4h1cHzHUw/0.jpg" alt="Часть 5" width="400">](https://www.youtube.com/watch?v=jE4h1cHzHUw)
-[<img src="http://img.youtube.com/vi/VORpw9_t6-Y/0.jpg" alt="Часть 7" width="400">](https://www.youtube.com/watch?v=VORpw9_t6-Y)
+[<img src="http://img.youtube.com/vi/kolUAlhu-ho/0.jpg" alt="Часть 2" width="450">](https://www.youtube.com/watch?v=kolUAlhu-ho)
+[<img src="http://img.youtube.com/vi/wxHLDV1fyZQ/0.jpg" alt="Часть 3" width="450">](https://www.youtube.com/watch?v=wxHLDV1fyZQ)
+[<img src="http://img.youtube.com/vi/f2XRAU9GJM4/0.jpg" alt="Часть 4" width="450">](https://www.youtube.com/watch?v=f2XRAU9GJM4)
+[<img src="http://img.youtube.com/vi/jE4h1cHzHUw/0.jpg" alt="Часть 5" width="450">](https://www.youtube.com/watch?v=jE4h1cHzHUw)
+[<img src="http://img.youtube.com/vi/VORpw9_t6-Y/0.jpg" alt="Часть 7" width="450">](https://www.youtube.com/watch?v=VORpw9_t6-Y)
