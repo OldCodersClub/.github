@@ -25,7 +25,7 @@
 
 
 <!--suppress HtmlDeprecatedAttribute -->
-<p align="center"><img src="../assets/rick.gif" alt="Rick" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/OldCodersClub/.github/master/assets/rick.gif?raw=true" alt="Rick" /></p>
 <p align="center"><b>Деды, го кодить!!!</b></p>
 
 
