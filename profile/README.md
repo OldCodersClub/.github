@@ -2,6 +2,8 @@
 
 # Клуб дедов-программистов #
 
+[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?logoColor=red&style=social">](https://github.com/orgs/OldCodersClub/repositories)
+
 Русскоязычный проект помощи начинающим дедам-программистам  
 30+, 40+, 50+
 
