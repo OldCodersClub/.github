@@ -58,3 +58,6 @@
 [<img src="http://img.youtube.com/vi/Rjnj_Qb6Pik/0.jpg" alt="Часть 6" width="410">](https://www.youtube.com/watch?v=Rjnj_Qb6Pik)
 [<img src="http://img.youtube.com/vi/VORpw9_t6-Y/0.jpg" alt="Часть 7" width="410">](https://www.youtube.com/watch?v=VORpw9_t6-Y)
 [<img src="http://img.youtube.com/vi/eC7e_srFrPU/0.jpg" alt="Часть 8" width="410">](https://www.youtube.com/watch?v=eC7e_srFrPU)
+[<img src="http://img.youtube.com/vi/p7I8dKsSD_o/0.jpg" alt="Часть 8" width="410">](https://www.youtube.com/watch?v=p7I8dKsSD_o)
+[<img src="http://img.youtube.com/vi/hsI54M3ajxg/0.jpg" alt="Часть 8" width="410">](https://www.youtube.com/watch?v=hsI54M3ajxg)
+[<img src="http://img.youtube.com/vi/TwAxYphV4Rw/0.jpg" alt="Часть 8" width="410">](https://www.youtube.com/watch?v=TwAxYphV4Rw)
