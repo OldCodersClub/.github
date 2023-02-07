@@ -14,7 +14,7 @@
 !!! Репозиторий пока что находится в младенческом возрасте, но растёт практически ежедневно.
 Если не удалось в нём что-то найти, можно зайти попозже.
 
-Присоединить свой GitHub-аккаунт к организации можно через группу в [Telegram](https://t.me/oldcodersclub) обратившись к владельцу группы [Voko](https://t.me/voko_aleksey)  
+Присоединить свой GitHub-аккаунт к организации можно через группу в [Telegram](https://t.me/oldcodersclub) обратившись к администратору группы [Voko](https://t.me/voko_aleksey)  
 Обязательно после этого сделайте свой профиль публичным на этой странице: [People](https://github.com/orgs/OldCodersClub/people)  
 Не стесняйтесь принимать участие в наполнении репозитория.
 Перед началом работы с [репозиторием проекта](https://github.com/OldCodersClub/faq) рекомендуется ознакомиться с этой документацией: [Первый вклад в проект](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.ru.md)
